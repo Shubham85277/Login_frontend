@@ -1,0 +1,30 @@
+.Login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+    width: 500px;
+    background-color: white;
+    font-family: sans-serif;
+    box-shadow: 10px 10px 10px rgb(170, 170, 170);
+    border-radius: 10px;
+  }
+  .Login input{
+      width: 450px;
+      height: 30px;
+      border-radius: 7px;
+      border: 1px solid grey;
+      box-shadow: 2px 2px 2px grey;
+  }
+  .Login button{
+      width: 450px;
+      height: 35px;
+      border-radius: 7px;
+      border: 1px solid grey;
+      background-color: rgb(45, 160, 247);
+      padding: 1px;
+      padding-top: 2px;
+      font-size: 1.3rem;
+      color: white;
+      cursor: pointer;
+  }

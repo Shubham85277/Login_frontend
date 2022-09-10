@@ -1,0 +1,21 @@
+.HomePage{
+    height: 400px;
+    width: 500px;
+    background-color: #fff;
+text-align: center;
+font-size: 1.3rem;
+box-shadow: 20px 20px 10px #333;
+font-family: sans-serif;
+
+}
+.HomePage button{
+    margin-top: 100px;
+    font-size: 2rem;
+ padding: 15px;
+ border-radius: 12px;
+ background-color: rgb(85, 85, 255);
+ cursor: pointer;
+}
+.HomePage h1{
+    margin-top: 50px;
+}
